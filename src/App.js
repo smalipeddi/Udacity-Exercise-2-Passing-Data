@@ -8,7 +8,7 @@ Display a list of movies where each movie contains a list of users that favorite
 
 For detailed instructions, refer to instructions.md.
 */
-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
+
 const profiles = [
   {
     id: 1,
